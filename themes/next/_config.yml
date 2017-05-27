@@ -6,7 +6,7 @@
 favicon: /favicon.ico
 
 # Set default keywords (Use a comma to separate)
-keywords: "万智渝, NexT"
+keywords: "万智渝, 个人, 博客"
 
 # Set rss to false to disable feed link.
 # Leave rss as empty to use site's feed link.
@@ -221,6 +221,7 @@ links:
   刘百川: http://liubaichuan.tk
   浚宇: http://blog.junyu.io/
   AlanZou: http://blog.alanice.cn/
+  瑞麓茶坊: http://ruilu.cf
 
 
 # ---------------------------------------------------------------
@@ -525,7 +526,7 @@ vendors:
   fastclick: https://cdn.staticfile.org/fastclick/1.0.6/fastclick.min.js
 
   # Internal version: 1.9.7
-  lazyload: //cdn.jsdelivr.net/jquery.lazyload/1.9.3/jquery.lazyload.min.js
+  lazyload: https://cdn.jsdelivr.net/jquery.lazyload/1.9.3/jquery.lazyload.min.js
 
   # Internal version: 1.2.1
 #  velocity: //cdn.jsdelivr.net/velocity/1.2.3/velocity.min.js
