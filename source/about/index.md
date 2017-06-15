@@ -6,7 +6,7 @@ type: "about"
 
 <blockquote class="blockquote-center">**E-mail：wanzhiyu@outlook.com**</blockquote>
 
-电气工程及其自动化专业，毕业季
+武汉理工大学，电气工程及其自动化专业，毕业季
 
 兴趣爱好：
 
